@@ -2,9 +2,9 @@
 This project uses Artificial Intelligence to create unique NFTs (Non-Fungible Tokens). Allowing users to connect their Ethereum wallets, generate images based on AI-driven prompts, and mint these images as NFTs directly on the Ethereum blockchain.
 
 <p align="center">
-  <img width="270" height="250" alt="Screenshot 2024-04-22 at 16 50 44" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/895f67b7-4081-4a52-82c3-6aecee8798c1">
-  <img width="270" height="250" alt="Screenshot 2024-04-22 at 16 51 10" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/6c00f0fc-151b-4adf-bad6-87035aa76afe">
-  <img width="270" height="250" alt="Screenshot 2024-04-22 at 16 49 52" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/c8169060-836e-405c-8536-d0ceccdbb211">
+  <img width="270" height="200" alt="Screenshot 2024-04-22 at 16 50 44" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/895f67b7-4081-4a52-82c3-6aecee8798c1">
+  <img width="270" height="200" alt="Screenshot 2024-04-22 at 16 51 10" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/6c00f0fc-151b-4adf-bad6-87035aa76afe">
+  <img width="270" height="200" alt="Screenshot 2024-04-22 at 16 49 52" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/c8169060-836e-405c-8536-d0ceccdbb211">
 </p>
 
 ## Key Features
