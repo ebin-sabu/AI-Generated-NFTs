@@ -4,7 +4,6 @@ This project uses Artificial Intelligence to create unique NFTs (Non-Fungible To
 <p align="center">
   <img width="370" height="300" alt="Screenshot 2024-04-22 at 16 50 44" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/895f67b7-4081-4a52-82c3-6aecee8798c1">
   <img width="370" height="300" alt="Screenshot 2024-04-22 at 16 51 10" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/6c00f0fc-151b-4adf-bad6-87035aa76afe">
-  <img width="370" height="300" alt="Screenshot 2024-04-22 at 16 49 52" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/c8169060-836e-405c-8536-d0ceccdbb211">
 </p>
 
 ## Key Features
@@ -24,6 +23,9 @@ Interact directly with smart contracts for minting and managing NFTs, using thir
 #### Responsive UI: 
 A user-friendly and responsive web interface that provides an easy and efficient user experience across various devices.
 
+<p align="center">
+ <img width="370" height="300" alt="Screenshot 2024-04-22 at 16 49 52" src="https://github.com/ebin-sabu/AI-Generated-NFTs/assets/49438210/c8169060-836e-405c-8536-d0ceccdbb211">
+</p>
 
 ## Getting Started
 
